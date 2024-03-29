@@ -1,17 +1,22 @@
 # Scool spike sorting Aussois 2024
 
-Material for spike sorting school for WIRED 2024 meeting.
+Material for spike sorting session in *neurotech spring school* in Aussois2024.
 
 
-Spikeinterface session, 2024 April 3rd.
 
-Here in this repository:
+Here in this repository, you will find some notebooks for demo and handsons.
 
+## 
 
-  * some notebook:
+**Morning session**
 
-## Approximative timeline : 2 hours
+10:30 - 11:30 What you always wanted to know about Spike sorting (but were afraid to ask)
 
+**Diner session**
+ 
+20:00 - 20:30 Overview on the wonderful world of SpikeInterface
+20:30 -  21:15 Deep interactive demo
+21.15 - 22:00 Notebook and handson
 
 
 ## Installation
@@ -28,7 +33,7 @@ If you already have anaconda/vscode installed jump to 4.
   * Step 3 : If you do not have a code editor we advise installing vscode.
     https://code.visualstudio.com/download.
     After installation, you can add the plugins “python” and “jupyter”
-  * Step 4 : Go to this page https://github.com/samuelgarcia/school_spike_sorting_WIRED_2024
+  * Step 4 : Go to this page https://github.com/samuelgarcia/school_spike_sorting_Aussois_2024
   * Step 5 : click on **"code"** (green button) and download the zip. Etxract the zip.
   * Step 6 : Open the anaconda prompt (a terminal).
   * Step 7 : go at the correct place where the zip is etracted.
@@ -61,7 +66,7 @@ Standard installation using system and pip are faster and easier to manage.
 
 ## Dataset
 
-
+Please download datasets here https://drive.google.com/drive/folders/1GtBCuSSlwypjXQ8aw5P6F4uOFP7fjIpE?usp=sharing
 
 
 
