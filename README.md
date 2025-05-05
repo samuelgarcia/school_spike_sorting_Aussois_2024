@@ -1,8 +1,6 @@
-# Scool spike sorting Aussois 2024
+# Scool spike sorting Aussois 2025
 
-Material for spike sorting session in *neurotech spring school* in Aussois2024.
-
-
+Material for spike sorting session in *neurotech spring school* in Aussois2025.
 
 Here in this repository, you will find some notebooks for demo and handsons.
 
@@ -10,13 +8,11 @@ Here in this repository, you will find some notebooks for demo and handsons.
 
 **Morning session**
 
-* 10:30 - 11:30 What you always wanted to know about Spike sorting (but were afraid to ask)
+* 09:00 - 10:00 What you always wanted to know about Spike sorting (but were afraid to ask)
 
 **Diner session**
  
-* 20:00 - 20:30 Overview on the wonderful world of SpikeInterface
-* 20:30 -  21:15 Deep interactive demo : with simulated and then real data
-* 21.15 - 22:00 Notebook and handson
+* 17:00 - 19:10 Overview on the wonderful world of SpikeInterface
   * preprocessing
   * motion correction
   * postprocessing
