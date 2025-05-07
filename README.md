@@ -12,7 +12,7 @@ Here in this repository, you will find some notebooks for demo and handsons.
 
 **Diner session**
  
-* 17:00 - 19:10 Overview on the wonderful world of SpikeInterface
+* 17:00 - 19:10 Hands on session on spikesorting and overview on the wonderful world of SpikeInterface
   * preprocessing
   * motion correction
   * postprocessing
