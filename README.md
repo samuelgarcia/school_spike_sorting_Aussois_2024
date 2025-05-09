@@ -1,4 +1,4 @@
-# Scool spike sorting Aussois 2025
+# School spike sorting Aussois 2025
 
 Material for spike sorting session in *neurotech spring school* in Aussois2025.
 
